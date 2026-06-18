@@ -93,6 +93,17 @@ img {
   font-weight: 700;
 }
 
+.masthead h1 .title-digit {
+  display: inline-block;
+  margin-top: 0;
+  color: inherit;
+  font-family: inherit;
+  font-size: 1.08em;
+  font-weight: inherit;
+  line-height: 0.86;
+  transform: translateY(-0.03em);
+}
+
 .hero {
   margin-top: 24px;
   padding: 22px 28px;
