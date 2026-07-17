@@ -501,6 +501,23 @@ img {
   height: auto;
 }
 
+.sponsor-logo-volcengine {
+  position: relative;
+  flex: 0 0 auto;
+  width: 180px;
+  aspect-ratio: 1092 / 282;
+  overflow: hidden;
+}
+
+.sponsor-logo-volcengine img {
+  position: absolute;
+  top: -152.5%;
+  left: -32.7%;
+  width: 169.2%;
+  max-width: none;
+  height: auto;
+}
+
 .sponsor-multiply {
   color: var(--accent);
   font-size: 20px;
@@ -742,16 +759,24 @@ img {
 
   .sponsor-mark {
     justify-content: center;
-    gap: 12px;
+    gap: 6px;
     width: auto;
   }
 
   .sponsor-logo-minimax {
-    width: 108px;
+    width: 70px;
   }
 
   .sponsor-logo-tecdo {
-    width: 132px;
+    width: 84px;
+  }
+
+  .sponsor-logo-volcengine {
+    width: 92px;
+  }
+
+  .sponsor-multiply {
+    font-size: 14px;
   }
 
   .link-grid {
