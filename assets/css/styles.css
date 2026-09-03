@@ -497,29 +497,12 @@ img {
 }
 
 .sponsor-logo-minimax {
-  width: 154px;
+  width: 180px;
   height: auto;
 }
 
 .sponsor-logo-tecdo {
   width: 140px;
-  height: auto;
-}
-
-.sponsor-logo-volcengine {
-  position: relative;
-  flex: 0 0 auto;
-  width: 180px;
-  aspect-ratio: 1092 / 282;
-  overflow: hidden;
-}
-
-.sponsor-logo-volcengine img {
-  position: absolute;
-  top: -152.5%;
-  left: -32.7%;
-  width: 169.2%;
-  max-width: none;
   height: auto;
 }
 
@@ -769,15 +752,11 @@ img {
   }
 
   .sponsor-logo-minimax {
-    width: 70px;
+    width: 78px;
   }
 
   .sponsor-logo-tecdo {
     width: 60px;
-  }
-
-  .sponsor-logo-volcengine {
-    width: 92px;
   }
 
   .sponsor-multiply {
